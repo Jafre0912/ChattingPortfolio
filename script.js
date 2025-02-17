@@ -83,7 +83,7 @@ function waitAndResponce(inputText) {
             sendTextMessage("<span class='sk'>I am currently pursuing B.Tech degree in Computer Science Engineering.<br><br>I can comfortably write code in following languages :<br><span class='bold'>Java<br>Python<br>C<br>PHP<br>C<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>React.Js<br>Laravel<br>ExpressJs<br>MERN Stack</span><br><br>I use <span class='bold'>Bootstrap</span> as daily driver on my HP Pavilion 15-ec0xxx<br>OS:Windows<br>DE:Gnome(More often) Kde(often)<br>Favourite IDE:VSCode</span>");
             break;
         case "education":
-            sendTextMessage("I am currently pursuing a B.Tech degree in Computer Science Engineering from Lovely Professional University<br>Passing Year : 2025<br><br>I have completed my Intermediate from Hetauda School of Management & Social Science<br>Passing Year:2020<br>Result:86.06%<br><br>I have completed my Secondary school from Shree Juddha Secondry School Gaur rautahat Nepal<br>Passing Year:2018");
+            sendTextMessage("I am currently pursuing a B.Tech degree in Computer Science Engineering from Lovely Professional University<br>Passing Year : 2025<br><br>I have completed my Intermediate from Hetauda School of Management & Social Science<br>Passing Year:2020<br>Result:81%<br><br>I have completed my Secondary school from Shree Juddha Secondry School Gaur rautahat Nepal<br>Passing Year:2018");
             break;
         case "address":
             sendTextMessage(addressString);
